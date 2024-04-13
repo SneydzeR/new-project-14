@@ -5,6 +5,10 @@
   |============================
 @import url('./reset.css');
 @import url('./base-styles.css');
+  */
+
+
+@import url('./faq.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
@@ -32,10 +36,4 @@
 
   --animation-hover: 250ms ease-in;
 }
-  */
-
-
-@import url('./faq.css');
-
-
 
