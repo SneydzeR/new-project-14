@@ -1,1 +1,1 @@
-import '@/js/faq.js';
+import './js/faq';
