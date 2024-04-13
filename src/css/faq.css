@@ -90,7 +90,7 @@ li.accordion {
     transform: rotate(0);
 }
 
-/*Медиа запросы*/
+/*Медіа запити*/
 @media screen and (max-width: 374.98px) {
     .accordion-list {
         display: block;
