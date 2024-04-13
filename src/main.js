@@ -1,1 +1,1 @@
-import './js/faq-accordion';
+import './js/reviews-main';
