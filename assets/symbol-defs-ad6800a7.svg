@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="icon-arrow-down" viewBox="0 0 48 32">
+      <path stroke-width="8" stroke="currentColor" fill="none" d="M44 26 24 6 4 26" />
+    </symbol>
+    <symbol id="icon-arrow-up" viewBox="0 0 48 32">
+      <path stroke-width="8" stroke="currentColor" fill="none" d="M44 6 24 26 4 6" />
+    </symbol>
+  </defs>
+</svg>
